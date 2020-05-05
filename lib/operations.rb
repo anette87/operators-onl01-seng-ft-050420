@@ -11,9 +11,9 @@ end
 speed(50)
 
 
-#def not_safe?(speed)
+def not_safe?(speed)
 	
-#end
+end
 	
 
 
